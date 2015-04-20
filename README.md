@@ -1,2 +1,2 @@
 # shaolei
-Minesweeper
+Minesweeper for linux/unix
